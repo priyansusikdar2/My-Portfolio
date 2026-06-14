@@ -33,8 +33,8 @@ export const projects = [
     tech: "Python, Data Visualization, Matplotlib, Seaborn",
     desc: "Interactive dashboard tracking species biodiversity across regions.",
     github: "https://github.com/priyansusikdar2/Biodiversity-Tracker",
-    category: "Data Science",
-    featured: false
+    category: "Python Developer",
+    featured: true
   },
   {
     id: 5,
@@ -42,8 +42,17 @@ export const projects = [
     tech: "TypeScript, React, Tailwind CSS",
     desc: "Card-matching game with animations and score tracking.",
     github: "https://github.com/priyansusikdar2/Memory-matching-game",
-    category: "Frontend",
-    featured: false
+    category: "Frontend Development",
+    featured: true
+  },
+  {
+    id: 6,
+    name: "ChurnAnalysisProject-PowerBI-main",
+    tech: "Power BI, Data Analytics",
+    desc: "Analyzes customer churn using Power BI for data visualization and insights.",
+    github: "https://github.com/priyansusikdar2/ChurnAnalysisProject-PowerBI-main",
+    category: "Data Analytics",
+    featured: true
   }
   
 ];
@@ -51,7 +60,7 @@ export const projects = [
 // Updated skills with more programming languages
 export const skills = {
   programming: ["Python", "R", "Java", "C++", "C", "SQL"],
-  ai_ml: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Generative AI", "LLMs", "Transformers", "TensorFlow", "PyTorch"],
+  ai_ml: ["Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Generative AI","Agentic AI", "LLMs", "Transformers", "TensorFlow", "PyTorch"],
   backend: ["Flask", "Django", "FastAPI", "REST APIs"],
   frontend: ["React", "Next.js", "Tailwind CSS", "HTML/CSS", "Figma", "Three.js", "Vue.js", "JavaScript ES6+", "TypeScript"],
   testing: ["Manual Testing", "Automation Testing", "Selenium", "JUnit", "PyTest", "Jmeter", "Bug Tracking-JIRA", "API Testing-Postman"],
