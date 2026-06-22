@@ -54,7 +54,6 @@ export const projects = [
     category: "Data Analytics",
     featured: true
   }
-  
 ];
 
 // Updated skills with more programming languages
@@ -80,7 +79,6 @@ export const socialLinks = {
 };
 
 // Complete achievements data
-// Updated achievements data
 export const achievements = {
   topRanks: [
     "🏆 Top 1% in Naukri.com Youth Turks - India's Largest Skill Test",
@@ -106,4 +104,14 @@ export const achievements = {
     "✅ Professional UI/UX Design & Web Prototyping Certificate",
     "📜 8 Eduskills Certificates Total"
   ]
+};
+
+// ===== RESUME LINKS (ADDED - YOUR GOOGLE DRIVE LINKS) =====
+export const resumeLinks = {
+  aiMl: "https://drive.google.com/file/d/1hzFf39u3XNhIhw9zyTv-aD9AXTFkXh9D/view?usp=sharing",
+  dataScience: "https://drive.google.com/file/d/1RLLBL-oNQp1HR1AWCqnWFT8BWCJghyE1/view?usp=sharing",
+  dataAnalyst: "https://drive.google.com/file/d/1iEU6BEgrJDdQ_Xr5p9ssIhjMg5jzCSY5/view?usp=sharing",
+  frontend: "https://drive.google.com/file/d/1Xqb6zEQ67Fy8LnCy3ysQ2vwtvBakW8UN/view?usp=sharing",
+  python: "https://drive.google.com/file/d/1ULtrTK8mt_cVHHcQRhx5l2Zb5QTCFlvb/view?usp=sharing",
+  softwareTesting: "https://drive.google.com/file/d/1gDY727deGFW2pcKgdbU_iVbXa2uqG3GU/view?usp=sharing"
 };
