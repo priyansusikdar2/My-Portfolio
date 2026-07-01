@@ -108,10 +108,10 @@ export const achievements = {
 
 // ===== RESUME LINKS (ADDED - YOUR GOOGLE DRIVE LINKS) =====
 export const resumeLinks = {
-  aiMl: "https://drive.google.com/file/d/1hzFf39u3XNhIhw9zyTv-aD9AXTFkXh9D/view?usp=sharing",
-  dataScience: "https://drive.google.com/file/d/1RLLBL-oNQp1HR1AWCqnWFT8BWCJghyE1/view?usp=sharing",
-  dataAnalyst: "https://drive.google.com/file/d/1iEU6BEgrJDdQ_Xr5p9ssIhjMg5jzCSY5/view?usp=sharing",
-  frontend: "https://drive.google.com/file/d/1Xqb6zEQ67Fy8LnCy3ysQ2vwtvBakW8UN/view?usp=sharing",
-  python: "https://drive.google.com/file/d/1ULtrTK8mt_cVHHcQRhx5l2Zb5QTCFlvb/view?usp=sharing",
-  softwareTesting: "https://drive.google.com/file/d/1gDY727deGFW2pcKgdbU_iVbXa2uqG3GU/view?usp=sharing"
+  aiMl: "https://drive.google.com/file/d/11vDrmo6E8FfvskZrZJ0v6o2YYLcht0ZC/view?usp=sharing",
+  dataScience: "https://drive.google.com/file/d/1EYS58QHklu67pDXt4q4WWhXkjMe4RUw6/view?usp=sharing",
+  dataAnalyst: "https://drive.google.com/file/d/1N4frduloR5HFdWxMPCbUtE_gUnTz6LT4/view?usp=sharing",
+  frontend: "https://drive.google.com/file/d/1vMGrYzLJ14IO6HkIgScvwPfocwP2pTVR/view?usp=sharing",
+  python: "https://drive.google.com/file/d/1bRMa5G-ufu9yzfJPmLJB3qlq6cQTuPOD/view?usp=sharing",
+  softwareTesting: "https://drive.google.com/file/d/165pu4b9NZFR0MMABzZG3XPGB2yP2yjuO/view?usp=sharing"
 };
